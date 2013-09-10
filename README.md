@@ -11,3 +11,5 @@ Utility classes for general use, such as:
 * XML utilities
 * Basic cryptography
 * ZIP input/output
+
+Note: This code was taken from the [RODA](https://github.com/keeps/roda) project, so it can be used in other open-source projects. 
